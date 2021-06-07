@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -g   CMakeFiles/telemetry.dir/telemetry.cpp.o  -o telemetry -Wl,-rpath,/usr/local/lib /usr/local/lib/libmavsdk_telemetry.so.0.37.0 /usr/local/lib/libmavsdk_mavlink_passthrough.so.0.37.0 /usr/local/lib/libmavsdk.so.0.37.0 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/opt/nvidia/deepstream/deepstream-5.1/sources/apps/sample_apps/deepstream-test5/telemertyCode/build",
+  "command": "/usr/bin/g++-7   -isystem /usr/local/include -isystem /usr/local/include/mavsdk  -g   -Wall -Wextra -Werror -Wno-address-of-packed-member -std=gnu++1z -o CMakeFiles/telemetry.dir/telemetry.cpp.o -c /opt/nvidia/deepstream/deepstream-5.1/sources/apps/sample_apps/deepstream-test5/telemertyCode/telemetry.cpp",
+  "file": "/opt/nvidia/deepstream/deepstream-5.1/sources/apps/sample_apps/deepstream-test5/telemertyCode/telemetry.cpp"
+}
+]

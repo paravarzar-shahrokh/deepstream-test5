@@ -1,0 +1,3 @@
+/opt/nvidia/deepstream/deepstream-5.1/sources/apps/sample_apps/deepstream-test5/telemertyCode/build/CMakeFiles/rebuild_cache.dir
+/opt/nvidia/deepstream/deepstream-5.1/sources/apps/sample_apps/deepstream-test5/telemertyCode/build/CMakeFiles/telemetry.dir
+/opt/nvidia/deepstream/deepstream-5.1/sources/apps/sample_apps/deepstream-test5/telemertyCode/build/CMakeFiles/edit_cache.dir
